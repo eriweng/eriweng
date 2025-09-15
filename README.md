@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eri</h1>
-<h3 align="center">A frontend learner from Taiwan</h3>
+<h3 align="center">A frontend Engineer from Taiwan</h3>
 
-- 🌱 I’m currently learning **Full-stack skill from Alpha Camps**
+- 🌱 I’m a frontend newbie now looking for a job opportunity.
 
 - 💬 Ask me about **music XD**
 
