@@ -3,7 +3,7 @@
 
 - 🌱 I’m a frontend newbie now looking for a job opportunity.
 
-- 💬 Ask me about **music XD**
+- 💬 Ask me sth about **music**
 
 - 📫 How to reach me **wendyweng1223@gmail.com**
 
